@@ -6,7 +6,7 @@
 
 h1 {
   font-family: "Ubuntu";
-  font-size: 4.5rem ;
+  font-size: 4.5rem !important;
   line-height: 1.5 !important;
   font:bold ;
 
@@ -208,3 +208,4 @@ font-family:"Ubuntu";
   width:1px;
 
 }
+
