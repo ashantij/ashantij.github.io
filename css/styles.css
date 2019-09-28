@@ -83,7 +83,7 @@ padding: 3% 15% 5%!important;
   padding-bottom:2%;
 }
 
-.feature-box {
+.bio-box {
   text-align:center;
   padding: 5% !important;
 
@@ -98,27 +98,7 @@ padding: 3% 15% 5%!important;
   color:#ff4c68;
 }
 
-/* Testimonial Section  */
-
-#testimonials {
-  padding: 7% 15%;
-  text-align: center;
-  background-color:#ef8172;
-
-}
-
-
-.testimonial-image {
-  width:10%;
-  border-radius:100%;
-  margin: 15px;
-}
-
-.testimonial-text {
-  font-size: 4.50rem;
-  line-height: 1.5;
-  color: #fff;
-}
+/* Credential Section  */
 
 #credentials {
   background-color: #ef8172;
